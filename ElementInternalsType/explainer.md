@@ -11,7 +11,7 @@
 - [OpenUI issue tracking initial discussions and WHATWG resolution to accept `elementInternals.type = 'button'`](https://github.com/openui/open-ui/issues/1088)
 
 ## Introduction
-Web component authors often want to create custom elements that have the  activation behaviors from the native button element. Some of the key use cases are listed below:
+Web component authors often want to add want to oeasily add attributes from native elements to a custom elements, specifially popovertagret/command for from native button or defning the type of button:
 
 - Custom buttons can be [popover invokers](https://html.spec.whatwg.org/multipage/popover.html#popoverinvokerelement) while providing unique styles and additional functionality (as discussed [here](https://github.com/openui/open-ui/issues/1088)). 
 
@@ -483,4 +483,5 @@ Many thanks for valuable feedback and advice from:
 - [Luke Warlow](https://github.com/lukewarlow)
 - [Daniel Clark](https://github.com/dandclark)
 - [Leo Lee](https://github.com/leotlee)
+
 - [Open UI Community Group](https://www.w3.org/community/open-ui/)
